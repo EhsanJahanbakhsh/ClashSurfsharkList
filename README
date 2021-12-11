@@ -1,3 +1,12 @@
 Clash Vpn Shadowsocks(SS) Free Servers 
 Using Direct Ip For Iranian Adresses.
 You Can Add Any Adress To Direct List Adresses :)
+Examlpe:
+https://github.com/EhsanJahanbakhsh/ClashSurfsharkList/blob/e6ee080bcf19a11782ce06bf87679de514e9621b/ClashDirectIranIP.yml#L2692
+rules:
+  - DOMAIN-SUFFIX,google.com,🔰 Select
+  - DOMAIN-KEYWORD,google,🔰 Select
+  - DOMAIN,google.com,🔰 Select
+  - DOMAIN-SUFFIX,ad.com,🚫 Intercept
+  - SRC-IP-CIDR,192.168.1.201/32,✅ Direct
+  - IP-CIDR,127.0.0.0/8,✅ Direct
